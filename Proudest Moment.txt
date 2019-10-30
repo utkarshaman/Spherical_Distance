@@ -1,0 +1,10 @@
+My proudest moment
+-------------------
+When I was given the opportunity to develop new UI designs and components for a SAP product. The requirement came with a strict deadline and raring eye from the senior management.
+I was responsible for the end-to-end development of the architecture and the UI screens. Along with that for the first time, I was given an opportunity to handle a team under me.
+I was able to handle a team of four people which involved designing the end to end architecture, coding, getting the team to achieve the target while incorporating any changes suggested, finishing within deadlines, delivering a quality end product and receiving feedback.
+
+This short term project helped me realise my potential in handling complex programming tasks while managing four other team members all under aggressive deadlines.
+Working within the aggressive deadline gave me a better understanding and the perspective of a product engineer, all the while helping me grow professionally (learning about the new UI components) as well as personally (by improving my people skills).
+
+I am extremely proud of this achievement as my development would result in a direct impact on one of our competitors(salesforce) in the cloud business market.
